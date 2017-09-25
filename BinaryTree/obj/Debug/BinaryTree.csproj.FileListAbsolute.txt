@@ -1,0 +1,6 @@
+C:\MyDOC\Проекты\C#\Developer\BinaryTree\BinaryTree\bin\Debug\BinaryTree.dll
+C:\MyDOC\Проекты\C#\Developer\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\MyDOC\Проекты\C#\Developer\BinaryTree\BinaryTree\obj\Debug\ResolveAssemblyReference.cache
+C:\MyDOC\Проекты\C#\Developer\BinaryTree\BinaryTree\obj\Debug\BinaryTree.dll
+C:\MyDOC\Проекты\C#\Developer\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\MyDOC\Проекты\C#\Developer\BinaryTree\BinaryTree\bin\Debug\NUnit.Framework.dll

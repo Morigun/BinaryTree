@@ -1,0 +1,8 @@
+C:\MyDOC\Проекты\C#\Developer\BinaryTree\TestBinaryTree\bin\Debug\TestBinaryTree.exe
+C:\MyDOC\Проекты\C#\Developer\BinaryTree\TestBinaryTree\bin\Debug\TestBinaryTree.pdb
+C:\MyDOC\Проекты\C#\Developer\BinaryTree\TestBinaryTree\obj\Debug\ResolveAssemblyReference.cache
+C:\MyDOC\Проекты\C#\Developer\BinaryTree\TestBinaryTree\obj\Debug\TestBinaryTree.exe
+C:\MyDOC\Проекты\C#\Developer\BinaryTree\TestBinaryTree\obj\Debug\TestBinaryTree.pdb
+C:\MyDOC\Проекты\C#\Developer\BinaryTree\TestBinaryTree\bin\Debug\TestBinaryTree.exe.config
+C:\MyDOC\Проекты\C#\Developer\BinaryTree\TestBinaryTree\bin\Debug\BinaryTree.dll
+C:\MyDOC\Проекты\C#\Developer\BinaryTree\TestBinaryTree\bin\Debug\BinaryTree.pdb
